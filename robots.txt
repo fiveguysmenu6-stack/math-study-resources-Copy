@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://fiveguysmenu6-stack.github.io/math-study-resources-Copy/sitemap.xml
